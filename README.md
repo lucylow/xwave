@@ -1,1 +1,1 @@
-# xwave
+# XWAVE Blockchain
